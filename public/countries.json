@@ -22,5 +22,43 @@
     {
         "name": "Antigua and Barbuda",
         "flag": "/images/countries/flag-of-Antigua.png"
-    }
+    },
+    {
+        "name": "Argentina",
+        "flag": "/images/countries/flag-of-Argentina.png"
+    },
+    {
+        "name": "Armenia",
+        "flag": "/images/countries/flag-of-Armenia.png"
+    },
+    {
+        "name": "Australia",
+        "flag": "/images/countries/flag-of-Australia.png"
+    },
+    {
+        "name": "Austria",
+        "flag": "/images/countries/flag-of-Austria.png"
+    },
+    {
+        "name": "Azerbaijan",
+        "flag": "/images/countries/flag-of-Azerbaijan.png"
+    },
+    { "name": "Bahamas", "flag": "/images/countries/flag-of-Bahamas.png" },
+    { "name": "Bahrain", "flag": "/images/countries/flag-of-Bahrain.png" },
+    { "name": "Bangladesh", "flag": "/images/countries/flag-of-Bangladesh.png" },
+    { "name": "Barbados", "flag": "/images/countries/flag-of-Barbados.png" },
+    { "name": "Belarus", "flag": "/images/countries/flag-of-Belarus.png" },
+    { "name": "Belgium", "flag": "/images/countries/flag-of-Belgium.png" },
+    { "name": "Belize", "flag": "/images/countries/flag-of-Belize.png" },
+    { "name": "Benin", "flag": "/images/countries/flag-of-Benin.png" },
+    { "name": "Bhutan", "flag": "/images/countries/flag-of-Bhutan.png" },
+    { "name": "Bolivia", "flag": "/images/countries/flag-of-Bolivia.png" },
+    { "name": "Bosnia and Herzegovina", "flag": "/images/countries/flag-of-Bosnia-Herzegovina.png" },
+    { "name": "Botswana", "flag": "/images/countries/flag-of-Botswana.png" },
+    { "name": "Brazil", "flag": "/images/countries/flag-of-Brazil.png" },
+    { "name": "Brunei", "flag": "/images/countries/flag-of-Brunei.png" },
+    { "name": "Brunei", "flag": "/images/countries/flag-of-Brunei.png" },
+    { "name": "Bulgaria", "flag": "/images/countries/flag-of-Bulgaria.png" },
+    { "name": "Burkina Faso", "flag": "/images/countries/flag-of-Burkina-Faso.png" },
+    { "name": "Burundi", "flag": "/images/countries/flag-of-Burundi.png" }
 ]
