@@ -1,0 +1,26 @@
+[
+    {
+        "name": "Afghanistan",
+        "flag": "../src/images/countries/flag-of-Afghanistan.png"
+    },
+    {
+        "name": "Albania",
+        "flag": "../src/images/countries/flag-of-Albania.png"
+    },
+    {
+        "name": "Algeria",
+        "flag": "../src/images/countries/flag-of-Algeria.png"
+    },
+    {
+        "name": "Andorra",
+        "flag": "../src/images/countries/flag-of-Andorra.png"
+    },
+    {
+        "name": "Angola",
+        "flag": "../src/images/countries/flag-of-Angola.png"
+    },
+    {
+        "name": "Antigua and Barbuda",
+        "flag": "../src/images/countries/flag-of-Antigua.png"
+    }
+]
