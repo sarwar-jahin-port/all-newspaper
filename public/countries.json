@@ -1,7 +1,7 @@
 [
     {
         "name": "Afghanistan",
-        "flag": "../src/images/countries/flag-of-Afghanistan.png"
+        "flag": "flag-of-Afghanistan.png"
     },
     {
         "name": "Albania",
