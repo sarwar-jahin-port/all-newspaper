@@ -1,0 +1,2391 @@
+[
+  {
+    "country-name": "Afghanistan",
+    "country-link": "https://www.w3newspapers.com/afghanistan/",
+    "newspapers": [
+      {
+        "newspaper-name": "Afghanistan Times Daily",
+        "newspaper-link": "https://www.afghanistantimes.af/",
+        "newspaper-about": "English-language newspaper published in Kabul, Afghanistan."
+      },
+      {
+        "newspaper-name": "Outlook Afghanistan",
+        "newspaper-link": "http://www.outlookafghanistan.net/",
+        "newspaper-about": "Independent English language newspaper published in Afghanistan. The newspapers readership mainly among NGOs, embassies, UN agencies, students, travelers, government offices, educational institutes, and social organizations."
+      },
+      {
+        "newspaper-name": "Khaama Press",
+        "newspaper-link": "https://www.khaama.com/",
+        "newspaper-about": "Leading news agency in Afghanistan."
+      },
+      {
+        "newspaper-name": "Pajhwok Afghan News",
+        "newspaper-link": "https://pajhwok.com/",
+        "newspaper-about": "A news agency founded by the Institute for War and Peace Reporting."
+      },
+      {
+        "newspaper-name": "nunn.asia",
+        "newspaper-link": "https://www.nunn.asia/",
+        "newspaper-about": "State run news agency of the Afghanistan government."
+      },
+      {
+        "newspaper-name": "Bakhtar News Agency (BNA)",
+        "newspaper-link": "https://bakhtarnews.af/",
+        "newspaper-about": "News and current affairs TV channel based in Kabul."
+      },
+      {
+        "newspaper-name": "8 Sobh",
+        "newspaper-link": "https://8am.af/",
+        "newspaper-about": "Persian-language newspaper published in Afghanistan."
+      },
+      {
+        "newspaper-name": "Afghan Paper",
+        "newspaper-link": "https://www.afghanpaper.com/",
+        "newspaper-about": "Afghan news portal in Persian and English-language contains articles about human rights, good government issues, freedom of speech, and more."
+      },
+      {
+        "newspaper-name": "Etilaat Roz",
+        "newspaper-link": "https://www.etilaatroz.com/",
+        "newspaper-about": "An independent Afghan news agency founded in 1982."
+      },
+      {
+        "newspaper-name": "Ariana News",
+        "newspaper-link": "https://www.ariananews.af/",
+        "newspaper-about": "Bi-monthly magazine based in UK providing British Afghan and Iranian business news, information and events."
+      },
+      {
+        "newspaper-name": "Tolafghan",
+        "newspaper-link": "https://www.tolafghan.com/",
+        "newspaper-about": ""
+      },
+      {
+        "newspaper-name": "Wadsam",
+        "newspaper-link": "https://wadsam.com/",
+        "newspaper-about": ""
+      },
+      {
+        "newspaper-name": "Larabar",
+        "newspaper-link": "https://larawbar.net/",
+        "newspaper-about": ""
+      },
+      {
+        "newspaper-name": "Arman e Mili",
+        "newspaper-link": "https://armanemili.com/",
+        "newspaper-about": ""
+      },
+      {
+        "newspaper-name": "Weesa",
+        "newspaper-link": "https://www.dailyweesa.com/",
+        "newspaper-about": ""
+      },
+      {
+        "newspaper-name": "Tolonews",
+        "newspaper-link": "https://tolonews.com/",
+        "newspaper-about": ""
+      },
+      {
+        "newspaper-name": "Afghan Voice Agancy (AVA)",
+        "newspaper-link": "https://www.avapress.com/en/",
+        "newspaper-about": ""
+      },
+      {
+        "newspaper-name": "Shamshad TV",
+        "newspaper-link": "https://shamshadtv.tv/",
+        "newspaper-about": ""
+      },
+      {
+        "newspaper-name": "Azadi Radio",
+        "newspaper-link": "https://www.azadiradio.com/",
+        "newspaper-about": ""
+      },
+      {
+        "newspaper-name": "Benawa",
+        "newspaper-link": "http://www.benawa.com/",
+        "newspaper-about": ""
+      },
+      {
+        "newspaper-name": "Kabul Press",
+        "newspaper-link": "https://www.kabulpress.org/",
+        "newspaper-about": ""
+      },
+      {
+        "newspaper-name": "Sayah Online",
+        "newspaper-link": "https://www.sayahonline.com/",
+        "newspaper-about": ""
+      },
+      {
+        "newspaper-name": "Afghan Online Press",
+        "newspaper-link": "http://www.aopnews.com/",
+        "newspaper-about": ""
+      },
+      {
+        "newspaper-name": "Lemar TV",
+        "newspaper-link": "https://www.lemar.tv/",
+        "newspaper-about": ""
+      },
+      {
+        "newspaper-name": "Sabawoon",
+        "newspaper-link": "http://www.sabawoon.com/",
+        "newspaper-about": ""
+      },
+      {
+        "newspaper-name": "Ariaye",
+        "newspaper-link": "https://ariaye.com/",
+        "newspaper-about": ""
+      },
+      {
+        "newspaper-name": "Pashto VOA",
+        "newspaper-link": "https://www.pashtovoa.com/",
+        "newspaper-about": ""
+      },
+      {
+        "newspaper-name": "Dari VOA",
+        "newspaper-link": "https://www.darivoa.com/",
+        "newspaper-about": ""
+      },
+      {
+        "newspaper-name": "Daily Afghanistan",
+        "newspaper-link": "http://www.dailyafghanistan.com/",
+        "newspaper-about": ""
+      },
+      {
+        "newspaper-name": "Afghanistan.ru",
+        "newspaper-link": "https://afghanistan.ru/",
+        "newspaper-about": ""
+      },
+      {
+        "newspaper-name": "Rohi",
+        "newspaper-link": "https://rohi.af/",
+        "newspaper-about": ""
+      },
+      {
+        "newspaper-name": "Eslah Online",
+        "newspaper-link": "https://www.eslahonline.net/",
+        "newspaper-about": ""
+      },
+      {
+        "newspaper-name": "Afghanistan Analysts Network",
+        "newspaper-link": "https://www.afghanistan-analysts.org/",
+        "newspaper-about": ""
+      },
+      {
+        "newspaper-name": "Jawedan",
+        "newspaper-link": "https://jawedan.com/",
+        "newspaper-about": ""
+      },
+      {
+        "newspaper-name": "Farsi",
+        "newspaper-link": "http://www.farsi.ru/",
+        "newspaper-about": ""
+      },
+      {
+        "newspaper-name": "Mehwar",
+        "newspaper-link": "https://www.mehwar.news/",
+        "newspaper-about": ""
+      },
+      {
+        "newspaper-name": "Mandegar",
+        "newspaper-link": "https://mandegardaily.com/",
+        "newspaper-about": ""
+      },
+      {
+        "newspaper-name": "Afghan Islamic Press (AIP)",
+        "newspaper-link": "https://www.afghanislamicpress.com/",
+        "newspaper-about": ""
+      },
+      {
+        "newspaper-name": "Dawat Media",
+        "newspaper-link": "https://dawatmedia24.com/",
+        "newspaper-about": ""
+      },
+      {
+        "newspaper-name": "BBC World Service : Pashto",
+        "newspaper-link": "https://www.bbc.com/pashto",
+        "newspaper-about": ""
+      },
+      {
+        "newspaper-name": "Sputnik News Afghanistan",
+        "newspaper-link": "https://sputnik.af/",
+        "newspaper-about": ""
+      },
+      {
+        "newspaper-name": "Elonat Magazine",
+        "newspaper-link": "http://www.elonat.com/",
+        "newspaper-about": ""
+      },
+      {
+        "newspaper-name": "Yahoo news | Afghanistan",
+        "newspaper-link": "https://www.yahoo.com/news/tagged/afghanistan",
+        "newspaper-about": ""
+      }
+    ]
+  },
+  {
+    "country-name": "Albania",
+    "country-link": "https://www.w3newspapers.com/albania/",
+    "newspapers": [
+      {
+        "newspaper-name": "Panorama",
+        "newspaper-link": "http://www.panorama.com.al/",
+        "newspaper-about": "It is one of the best-selling newspapers in Albania."
+      },
+      {
+        "newspaper-name": "Koha Jon",
+        "newspaper-link": "https://kohajone.com/",
+        "newspaper-about": "Albania's leading daily broadsheet format newspaper."
+      },
+      {
+        "newspaper-name": "Tema",
+        "newspaper-link": "https://www.gazetatema.net/",
+        "newspaper-about": "Albanian-language broadsheet format daily newspaper. The Tema includes in-depth national and international articles about politics, business, health, sports, and education."
+      },
+      {
+        "newspaper-name": "Gazeta Express",
+        "newspaper-link": "https://www.gazetaexpress.com/",
+        "newspaper-about": "Leading news site covering latest on politics, sports, business, entertainment and more."
+      },
+      {
+        "newspaper-name": "Shqiptarja",
+        "newspaper-link": "https://shqiptarja.com/",
+        "newspaper-about": "Albanian daily newspaper."
+      },
+      {
+        "newspaper-name": "DITA",
+        "newspaper-link": "http://www.gazetadita.al/",
+        "newspaper-about": "One of the most widely circulated daily newspaper published in Tirana, Albania."
+      },
+      {
+        "newspaper-name": "Mapo",
+        "newspaper-link": "https://gazetamapo.al/",
+        "newspaper-about": "Albanian newspaper owned by Top Channel."
+      },
+      {
+        "newspaper-name": "Gazeta Sot",
+        "newspaper-link": "https://sot.com.al/",
+        "newspaper-about": "Daily newspaper published six days a week (Tuesday to Sunday)."
+      },
+      {
+        "newspaper-name": "Shekulli",
+        "newspaper-link": "http://shekulli.com.al/",
+        "newspaper-about": "Albanian first weekly English-language newspaper. The newspaper covering Albania and the Balkans Peninsula."
+      },
+      {
+        "newspaper-name": "Java",
+        "newspaper-link": "https://javanews.al/",
+        "newspaper-about": "24 hrs news source in Albanian-language."
+      },
+      {
+        "newspaper-name": "Albanian Radio and TV (RTSh)",
+        "newspaper-link": "https://www.rtsh.al/",
+        "newspaper-about": "English-language newspaper published since 1995."
+      },
+      {
+        "newspaper-name": "Shqip",
+        "newspaper-link": "https://www.gazeta-shqip.com/",
+        "newspaper-about": ""
+      },
+      {
+        "newspaper-name": "Albanian Telegraphic Agency (ATA)",
+        "newspaper-link": "http://ata.gov.al/",
+        "newspaper-about": ""
+      },
+      {
+        "newspaper-name": "Rilindja Demokratike (RD)",
+        "newspaper-link": "https://rd.al/",
+        "newspaper-about": ""
+      },
+      {
+        "newspaper-name": "Standard",
+        "newspaper-link": "https://www.standard.al/",
+        "newspaper-about": ""
+      },
+      {
+        "newspaper-name": "Telegraf",
+        "newspaper-link": "https://telegraf.al/",
+        "newspaper-about": ""
+      },
+      {
+        "newspaper-name": "JOQ Albania",
+        "newspaper-link": "https://joqalbania.com/",
+        "newspaper-about": ""
+      },
+      {
+        "newspaper-name": "Albeu",
+        "newspaper-link": "https://albeu.com/",
+        "newspaper-about": ""
+      },
+      {
+        "newspaper-name": "opinion.al",
+        "newspaper-link": "https://opinion.al/",
+        "newspaper-about": ""
+      },
+      {
+        "newspaper-name": "balkanweb.com",
+        "newspaper-link": "https://www.balkanweb.com/",
+        "newspaper-about": ""
+      },
+      {
+        "newspaper-name": "Noa Lajme",
+        "newspaper-link": "https://www.noa.al/",
+        "newspaper-about": ""
+      },
+      {
+        "newspaper-name": "lapsi.al",
+        "newspaper-link": "https://lapsi.al/",
+        "newspaper-about": ""
+      },
+      {
+        "newspaper-name": "360grade.al",
+        "newspaper-link": "https://360grade.al/",
+        "newspaper-about": ""
+      },
+      {
+        "newspaper-name": "Top channel",
+        "newspaper-link": "https://top-channel.tv/",
+        "newspaper-about": ""
+      },
+      {
+        "newspaper-name": "Vision Plus",
+        "newspaper-link": "https://www.vizionplus.tv/",
+        "newspaper-about": ""
+      },
+      {
+        "newspaper-name": "Ora news",
+        "newspaper-link": "http://www.oranews.tv/",
+        "newspaper-about": ""
+      },
+      {
+        "newspaper-name": "politiko.al",
+        "newspaper-link": "https://politiko.al/",
+        "newspaper-about": ""
+      },
+      {
+        "newspaper-name": "fax.al",
+        "newspaper-link": "http://fax.al/",
+        "newspaper-about": ""
+      },
+      {
+        "newspaper-name": "Gazeta Blic",
+        "newspaper-link": "https://gazetablic.com/",
+        "newspaper-about": ""
+      },
+      {
+        "newspaper-name": "News bomb",
+        "newspaper-link": "https://newsbomb.al/",
+        "newspaper-about": ""
+      },
+      {
+        "newspaper-name": "Lajmi Fundit",
+        "newspaper-link": "https://lajmifundit.al/",
+        "newspaper-about": ""
+      },
+      {
+        "newspaper-name": "Tirana Post",
+        "newspaper-link": "https://www.tiranapost.al/",
+        "newspaper-about": ""
+      },
+      {
+        "newspaper-name": "City News",
+        "newspaper-link": "https://www.cna.al/",
+        "newspaper-about": ""
+      },
+      {
+        "newspaper-name": "Epoka e re",
+        "newspaper-link": "https://www.epokaere.com/",
+        "newspaper-about": ""
+      },
+      {
+        "newspaper-name": "Tirana Observer",
+        "newspaper-link": "https://www.tiranaobserver.al/",
+        "newspaper-about": ""
+      },
+      {
+        "newspaper-name": "TV Klan",
+        "newspaper-link": "https://tvklan.al/",
+        "newspaper-about": ""
+      },
+      {
+        "newspaper-name": "lexo.al",
+        "newspaper-link": "https://lexo.al/",
+        "newspaper-about": ""
+      },
+      {
+        "newspaper-name": "Shqiperia",
+        "newspaper-link": "https://www.shqiperia.com/",
+        "newspaper-about": ""
+      },
+      {
+        "newspaper-name": "Konica",
+        "newspaper-link": "https://konica.al/",
+        "newspaper-about": ""
+      },
+      {
+        "newspaper-name": "Bota",
+        "newspaper-link": "https://bota.al/",
+        "newspaper-about": ""
+      },
+      {
+        "newspaper-name": "Sport Ekspres",
+        "newspaper-link": "https://sportekspres.com/",
+        "newspaper-about": ""
+      },
+      {
+        "newspaper-name": "Durres Lajm",
+        "newspaper-link": "https://durreslajm.al/",
+        "newspaper-about": ""
+      },
+      {
+        "newspaper-name": "Shqiptari",
+        "newspaper-link": "https://shqiptari.net/",
+        "newspaper-about": ""
+      },
+      {
+        "newspaper-name": "Info Arkhiv",
+        "newspaper-link": "http://www.arkivalajmeve.com/",
+        "newspaper-about": ""
+      },
+      {
+        "newspaper-name": "Gazeta Ekonomia",
+        "newspaper-link": "http://gazetaekonomia.com/",
+        "newspaper-about": ""
+      },
+      {
+        "newspaper-name": "Saranda Web",
+        "newspaper-link": "https://sarandaweb.net/",
+        "newspaper-about": ""
+      },
+      {
+        "newspaper-name": "Tirana Times",
+        "newspaper-link": "https://www.tiranatimes.com/",
+        "newspaper-about": ""
+      },
+      {
+        "newspaper-name": "24 ore lajme",
+        "newspaper-link": "http://24-ore.com/",
+        "newspaper-about": ""
+      },
+      {
+        "newspaper-name": "Vetevendosje",
+        "newspaper-link": "https://www.vetevendosje.org/",
+        "newspaper-about": ""
+      },
+      {
+        "newspaper-name": "Albanian Daily News (ADN)",
+        "newspaper-link": "https://www.albaniandailynews.com/",
+        "newspaper-about": ""
+      },
+      {
+        "newspaper-name": "Zhurnal",
+        "newspaper-link": "https://www.zhurnal.mk/al/",
+        "newspaper-about": ""
+      },
+      {
+        "newspaper-name": "Kombetare",
+        "newspaper-link": "http://kombetare.al/",
+        "newspaper-about": ""
+      },
+      {
+        "newspaper-name": "Intervista",
+        "newspaper-link": "https://intervista.al/web/",
+        "newspaper-about": ""
+      }
+    ]
+  },
+  {
+    "country-name": "Algeria",
+    "country-link": "https://www.w3newspapers.com/algeria/",
+    "newspapers": [
+      {
+        "newspaper-name": "Echorouk",
+        "newspaper-link": "https://www.echoroukonline.com/",
+        "newspaper-about": "Leading Arabic-language newspaper based in Kouba, Algiers."
+      },
+      {
+        "newspaper-name": "El Khabar",
+        "newspaper-link": "https://www.elkhabar.com/",
+        "newspaper-about": "One of the most widely circulated Algerian newspapers."
+      },
+      {
+        "newspaper-name": "Liberte",
+        "newspaper-link": "https://www.liberte-algerie.com/",
+        "newspaper-about": "Newspaper published in French-language and covering economy, culture, inside Algeria news, history, and more."
+      },
+      {
+        "newspaper-name": "El Moudjahid",
+        "newspaper-link": "https://www.elmoudjahid.com/",
+        "newspaper-about": "One of the French-language newspapers in Algeria owned by Algerian Government."
+      },
+      {
+        "newspaper-name": "El Massa",
+        "newspaper-link": "https://www.el-massa.com/",
+        "newspaper-about": "Algerian sports newspaper devoted to football."
+      },
+      {
+        "newspaper-name": "El Heddaf",
+        "newspaper-link": "https://www.elheddaf.com/",
+        "newspaper-about": "Daily newspaper based in Algiers."
+      },
+      {
+        "newspaper-name": "Ennahar El Djadid",
+        "newspaper-link": "https://www.ennaharonline.com/",
+        "newspaper-about": "Based in MA, USA"
+      },
+      {
+        "newspaper-name": "Ech Chaab",
+        "newspaper-link": "http://www.ech-chaab.com/",
+        "newspaper-about": ""
+      },
+      {
+        "newspaper-name": "Akher Sa\u00e2",
+        "newspaper-link": "https://www.akhersaa-dz.com/",
+        "newspaper-about": ""
+      },
+      {
+        "newspaper-name": "Le Matin DZ",
+        "newspaper-link": "https://www.lematindz.net/",
+        "newspaper-about": ""
+      },
+      {
+        "newspaper-name": "L'Expression",
+        "newspaper-link": "https://www.lexpressiondz.com/",
+        "newspaper-about": ""
+      },
+      {
+        "newspaper-name": "Annasr",
+        "newspaper-link": "https://www.annasronline.com/",
+        "newspaper-about": ""
+      },
+      {
+        "newspaper-name": "El Djournhouria",
+        "newspaper-link": "https://www.eldjoumhouria.dz/",
+        "newspaper-about": ""
+      },
+      {
+        "newspaper-name": "La Dep\u00e9che de Kabylie",
+        "newspaper-link": "https://www.depechedekabylie.com/",
+        "newspaper-about": ""
+      },
+      {
+        "newspaper-name": "Le Jour d'Algerie",
+        "newspaper-link": "https://lejourdalgerie.com/",
+        "newspaper-about": ""
+      },
+      {
+        "newspaper-name": "Le Quotidien d'Oran",
+        "newspaper-link": "http://www.lequotidien-oran.com/",
+        "newspaper-about": ""
+      },
+      {
+        "newspaper-name": "TSA",
+        "newspaper-link": "https://www.tsa-algerie.com/ar/",
+        "newspaper-about": ""
+      },
+      {
+        "newspaper-name": "\u200eDjelfa.info",
+        "newspaper-link": "https://djelfainfo.dz/ar/",
+        "newspaper-about": ""
+      },
+      {
+        "newspaper-name": "Observ Algerie",
+        "newspaper-link": "https://observalgerie.com/",
+        "newspaper-about": ""
+      },
+      {
+        "newspaper-name": "Algerie Patriotique",
+        "newspaper-link": "https://www.algeriepatriotique.com/",
+        "newspaper-about": ""
+      },
+      {
+        "newspaper-name": "Djazairess.com",
+        "newspaper-link": "https://www.djazairess.com/",
+        "newspaper-about": ""
+      },
+      {
+        "newspaper-name": "Algerie Part Plus",
+        "newspaper-link": "https://www.algeriepart.com/",
+        "newspaper-about": ""
+      },
+      {
+        "newspaper-name": "Algerie360.com\u200e",
+        "newspaper-link": "https://www.algerie360.com/",
+        "newspaper-about": ""
+      },
+      {
+        "newspaper-name": "\u200eLe Matin d'Algerie",
+        "newspaper-link": "https://lematindalgerie.com/",
+        "newspaper-about": ""
+      },
+      {
+        "newspaper-name": "Le Soir d'Algerie",
+        "newspaper-link": "https://www.lesoirdalgerie.com/",
+        "newspaper-about": ""
+      },
+      {
+        "newspaper-name": "Transaction D'Algerie",
+        "newspaper-link": "https://transactiondalgerie.com/",
+        "newspaper-about": ""
+      },
+      {
+        "newspaper-name": "El Bilad",
+        "newspaper-link": "https://www.elbilad.net/",
+        "newspaper-about": ""
+      },
+      {
+        "newspaper-name": "L'automarch\u00e9",
+        "newspaper-link": "http://lautomarche.com/",
+        "newspaper-about": ""
+      },
+      {
+        "newspaper-name": "Akhbar el Youm",
+        "newspaper-link": "https://www.akhbarelyoum.dz/ar/index.php",
+        "newspaper-about": ""
+      },
+      {
+        "newspaper-name": "Al seyassi",
+        "newspaper-link": "https://www.alseyassi-dz.com/ara/index.php",
+        "newspaper-about": ""
+      },
+      {
+        "newspaper-name": "Algerian TV",
+        "newspaper-link": "https://www.entv.dz/",
+        "newspaper-about": ""
+      },
+      {
+        "newspaper-name": "Radioalgerie.dz",
+        "newspaper-link": "https://www.radioalgerie.dz/",
+        "newspaper-about": ""
+      },
+      {
+        "newspaper-name": "El Watani",
+        "newspaper-link": "http://elwatani.com/",
+        "newspaper-about": ""
+      },
+      {
+        "newspaper-name": "Algerie-Focus.com",
+        "newspaper-link": "https://www.algerie-focus.com/",
+        "newspaper-about": ""
+      },
+      {
+        "newspaper-name": "Algerie Eco",
+        "newspaper-link": "https://www.algerie-eco.com/",
+        "newspaper-about": ""
+      },
+      {
+        "newspaper-name": "Algerie 1",
+        "newspaper-link": "https://www.algerie1.com/",
+        "newspaper-about": ""
+      },
+      {
+        "newspaper-name": "Al Jazair Al Youm",
+        "newspaper-link": "https://www.aljazairalyoum.dz/",
+        "newspaper-about": ""
+      },
+      {
+        "newspaper-name": "Dzayerinfo",
+        "newspaper-link": "https://dzayerinfo.com/",
+        "newspaper-about": ""
+      },
+      {
+        "newspaper-name": "\u200eAlgerie-dz.com",
+        "newspaper-link": "https://www.algerie-dz.com/",
+        "newspaper-about": ""
+      },
+      {
+        "newspaper-name": "Ouest Tribune",
+        "newspaper-link": "http://www.ouestribune-dz.com/",
+        "newspaper-about": ""
+      },
+      {
+        "newspaper-name": "\u200eEl Hiwar El Jazairia",
+        "newspaper-link": "https://elhiwar.dz/",
+        "newspaper-about": ""
+      },
+      {
+        "newspaper-name": "Al Jazair 24",
+        "newspaper-link": "http://aljazair24.com/",
+        "newspaper-about": ""
+      },
+      {
+        "newspaper-name": "Reflexion",
+        "newspaper-link": "https://www.reflexiondz.net/",
+        "newspaper-about": ""
+      },
+      {
+        "newspaper-name": "Algerie Maintenant",
+        "newspaper-link": "https://www.algeriemaintenant.com/",
+        "newspaper-about": ""
+      },
+      {
+        "newspaper-name": "DIA Dernieres Infos d'Algerie",
+        "newspaper-link": "https://dia-algerie.com/",
+        "newspaper-about": ""
+      },
+      {
+        "newspaper-name": "Assawt\u200e",
+        "newspaper-link": "https://www.assawt.net/",
+        "newspaper-about": ""
+      },
+      {
+        "newspaper-name": "Horizons",
+        "newspaper-link": "https://www.horizons.dz/",
+        "newspaper-about": ""
+      },
+      {
+        "newspaper-name": "elwassat.com",
+        "newspaper-link": "https://elwassat.dz/",
+        "newspaper-about": ""
+      },
+      {
+        "newspaper-name": "Alger R\u00e9publicain",
+        "newspaper-link": "http://www.alger-republicain.com/",
+        "newspaper-about": ""
+      },
+      {
+        "newspaper-name": "El Mihwar",
+        "newspaper-link": "http://elmihwar.com/ar/",
+        "newspaper-about": ""
+      },
+      {
+        "newspaper-name": "Le Quotidien d'Oran",
+        "newspaper-link": "http://www.lequotidien-oran.com/",
+        "newspaper-about": ""
+      },
+      {
+        "newspaper-name": "North Africa Journal",
+        "newspaper-link": "https://north-africa.com/",
+        "newspaper-about": ""
+      }
+    ]
+  },
+  {
+    "country-name": "Andorra",
+    "country-link": "https://www.w3newspapers.com/andorra/",
+    "newspapers": [
+      {
+        "newspaper-name": "Diari d'Andorra",
+        "newspaper-link": "https://www.diariandorra.ad/",
+        "newspaper-about": "One of the oldest newspapers in Andorra."
+      },
+      {
+        "newspaper-name": "El Periodic d'Andorra",
+        "newspaper-link": "https://www.elperiodic.ad/",
+        "newspaper-about": "Catalan-language newspaper published in Andorra. The newspaper covering latest news on sports, entertainment, healthcare, travel, business, education, and more."
+      },
+      {
+        "newspaper-name": "Ara Andorra",
+        "newspaper-link": "https://www.ara.ad/",
+        "newspaper-about": ""
+      },
+      {
+        "newspaper-name": "Bondia",
+        "newspaper-link": "https://www.bondia.ad/",
+        "newspaper-about": ""
+      },
+      {
+        "newspaper-name": "Forum",
+        "newspaper-link": "https://forum.ad/",
+        "newspaper-about": ""
+      },
+      {
+        "newspaper-name": "Ag\u00e8ncia de Not\u00edcies Andorrana (ANA)",
+        "newspaper-link": "https://www.ana.ad/",
+        "newspaper-about": ""
+      },
+      {
+        "newspaper-name": "RTVA (R\u00e0dio i Televisi\u00f3 d'Andorra S.A.)",
+        "newspaper-link": "https://www.andorradifusio.ad/",
+        "newspaper-about": ""
+      },
+      {
+        "newspaper-name": "Wikipedia: Andorra",
+        "newspaper-link": "https://en.wikipedia.org/wiki/Andorra",
+        "newspaper-about": ""
+      },
+      {
+        "newspaper-name": "BBC News - Andorra country profile",
+        "newspaper-link": "http://news.bbc.co.uk/2/hi/europe/country_profiles/992562.stm",
+        "newspaper-about": ""
+      }
+    ]
+  },
+  [
+    {
+      "country-name": "Angola",
+      "country-link": "https://www.w3newspapers.com/angola/",
+      "newspapers": [
+        {
+          "newspaper-name": "Jornal de Angola",
+          "newspaper-link": "https://www.jornaldeangola.ao/ao/",
+          "newspaper-about": "Government-owned daily newspaper published in Angola."
+        },
+        {
+          "newspaper-name": "Folha 8",
+          "newspaper-link": "https://jornalf8.net/",
+          "newspaper-about": "Portuguese-language news portal."
+        },
+        {
+          "newspaper-name": "Novo Jornal",
+          "newspaper-link": "https://novojornal.co.ao/",
+          "newspaper-about": "State-run, was founded in 1975."
+        },
+        {
+          "newspaper-name": "O Pais",
+          "newspaper-link": "https://opais.co.ao/",
+          "newspaper-about": "Providing news, politics, history, economy, population, facts, weather, and more."
+        },
+        {
+          "newspaper-name": "Correio da Kianda",
+          "newspaper-link": "https://correiokianda.info/",
+          "newspaper-about": "Provides information on politics, history, religion, weather, population, foreign relations, economy, environment, geography, culture, government, and human rights."
+        },
+        {
+          "newspaper-name": "Maka Angola",
+          "newspaper-link": "https://www.makaangola.org/en/",
+          "newspaper-about": ""
+        },
+        {
+          "newspaper-name": "Angola24Horas.com",
+          "newspaper-link": "https://angola24horas.com/",
+          "newspaper-about": ""
+        },
+        {
+          "newspaper-name": "Platinaline",
+          "newspaper-link": "https://platinaline.com/",
+          "newspaper-about": ""
+        },
+        {
+          "newspaper-name": "Portal de Angola\u200e",
+          "newspaper-link": "https://www.portaldeangola.com/",
+          "newspaper-about": ""
+        },
+        {
+          "newspaper-name": "Expansao",
+          "newspaper-link": "https://www.expansao.co.ao/",
+          "newspaper-about": ""
+        },
+        {
+          "newspaper-name": "Ver Angola\u200e",
+          "newspaper-link": "https://www.verangola.net/va/",
+          "newspaper-about": ""
+        },
+        {
+          "newspaper-name": "AngoNoticias",
+          "newspaper-link": "https://www.angonoticias.com/",
+          "newspaper-about": ""
+        },
+        {
+          "newspaper-name": "Angola Online\u200e",
+          "newspaper-link": "https://angola-online.net/",
+          "newspaper-about": ""
+        },
+        {
+          "newspaper-name": "\u200eMercado",
+          "newspaper-link": "https://mercado.co.ao/",
+          "newspaper-about": ""
+        },
+        {
+          "newspaper-name": "Nova Gazeta",
+          "newspaper-link": "https://www.novagazeta.co.ao/",
+          "newspaper-about": ""
+        },
+        {
+          "newspaper-name": "Voz de Angola\u200e",
+          "newspaper-link": "https://www.vozdeangola.com/",
+          "newspaper-about": ""
+        },
+        {
+          "newspaper-name": "\u200e Noticias de Angola",
+          "newspaper-link": "https://noticiasdeangola.co.ao/",
+          "newspaper-about": ""
+        },
+        {
+          "newspaper-name": "Central Angola 7311\u200e",
+          "newspaper-link": "https://centralangola7311.net/",
+          "newspaper-about": ""
+        },
+        {
+          "newspaper-name": "Angola Press (ANGOP)",
+          "newspaper-link": "https://www.angop.ao/",
+          "newspaper-about": ""
+        },
+        {
+          "newspaper-name": "Televisao Popular de Angola (TPA)",
+          "newspaper-link": "https://www.tpa.ao/ao/",
+          "newspaper-about": ""
+        },
+        {
+          "newspaper-name": "Club-K",
+          "newspaper-link": "https://www.club-k.net/",
+          "newspaper-about": ""
+        },
+        {
+          "newspaper-name": "BBC News - Angola",
+          "newspaper-link": "https://www.bbc.com/news/world-africa-13036732",
+          "newspaper-about": ""
+        },
+        {
+          "newspaper-name": "ReliefWeb - Angola",
+          "newspaper-link": "https://reliefweb.int/country/ago",
+          "newspaper-about": ""
+        },
+        {
+          "newspaper-name": "Jeune Afrique - Angola",
+          "newspaper-link": "https://www.jeuneafrique.com/pays/angola/",
+          "newspaper-about": ""
+        },
+        {
+          "newspaper-name": "All Africa: Angola",
+          "newspaper-link": "https://allafrica.com/angola/",
+          "newspaper-about": ""
+        },
+        {
+          "newspaper-name": "Wikipedia - Angola",
+          "newspaper-link": "https://en.wikipedia.org/wiki/Angola",
+          "newspaper-about": ""
+        }
+      ]
+    }
+  ],
+  {
+    "country-name": "Antigua and Barbuda",
+    "country-link": "https://www.w3newspapers.com/antigua-and-barbuda/",
+    "newspapers": [
+      {
+        "newspaper-name": "Antigua Observer",
+        "newspaper-link": "https://antiguaobserver.com/",
+        "newspaper-about": "Leading daily newspaper published in Antigua and Barbuda. The newspaper providing latest news and information about travel, entertainment, sports, jobs, lifestyles, business, and much more."
+      },
+      {
+        "newspaper-name": "Antigua News Room",
+        "newspaper-link": "https://antiguanewsroom.com/",
+        "newspaper-about": "Official website of the Antigua and Barbuda Broadcasting Services news department."
+      },
+      {
+        "newspaper-name": "ABS TV/Radio",
+        "newspaper-link": "https://abstvradio.com/",
+        "newspaper-about": ""
+      },
+      {
+        "newspaper-name": "Antigua Breaking News",
+        "newspaper-link": "https://antiguabreakingnews.com/",
+        "newspaper-about": ""
+      },
+      {
+        "newspaper-name": "antiguanice.com",
+        "newspaper-link": "https://www.antiguanice.com/",
+        "newspaper-about": ""
+      },
+      {
+        "newspaper-name": "BBC News - Antigua and Barbuda country profile",
+        "newspaper-link": "https://www.bbc.com/news/topics/cq23pdgvrlzt",
+        "newspaper-about": ""
+      },
+      {
+        "newspaper-name": "The Antiguan Magazine",
+        "newspaper-link": "https://www.theantiguan.com/",
+        "newspaper-about": ""
+      }
+    ]
+  },
+  {
+    "country-name": "Argentina",
+    "country-link": "https://www.w3newspapers.com/argentina/",
+    "newspapers": [
+      {
+        "newspaper-name": "Clar\u00edn",
+        "newspaper-link": "https://www.clarin.com/",
+        "newspaper-about": "One of the most widely circulated daily newspapers in Argentina."
+      },
+      {
+        "newspaper-name": "La Naci\u00f3n",
+        "newspaper-link": "https://www.lanacion.com.ar/",
+        "newspaper-about": "Argentina's daily newspaper covering business, sports, politics, lifestyle and more."
+      },
+      {
+        "newspaper-name": "Ol\u00e9",
+        "newspaper-link": "https://www.ole.com.ar/",
+        "newspaper-about": "Argentinian sports newspaper."
+      },
+      {
+        "newspaper-name": "Diario Misiones OnLine (MOL)",
+        "newspaper-link": "https://misionesonline.net/",
+        "newspaper-about": "Daily newspaper of Misiones Province, Argentina."
+      },
+      {
+        "newspaper-name": "P\u00e1gina/12",
+        "newspaper-link": "https://www.pagina12.com.ar/",
+        "newspaper-about": "Daily newspaper based in Buenos Aires, Argentina."
+      },
+      {
+        "newspaper-name": "Perfil",
+        "newspaper-link": "https://www.perfil.com/",
+        "newspaper-about": "Argentinian tabloid newspaper."
+      },
+      {
+        "newspaper-name": "\u00c1mbito Financiero",
+        "newspaper-link": "https://www.ambito.com/",
+        "newspaper-about": "Argentine newspaper based in Buenos Aires and published since 1976."
+      },
+      {
+        "newspaper-name": "La Voz del Interior",
+        "newspaper-link": "https://www.lavoz.com.ar/",
+        "newspaper-about": "Major daily Spanish-language newspaper published in C\u00f3rdoba, Argentina."
+      },
+      {
+        "newspaper-name": "Todo Noticias",
+        "newspaper-link": "https://tn.com.ar/",
+        "newspaper-about": "Argentine daily newspaper based in Mendoza."
+      },
+      {
+        "newspaper-name": "El Liberal",
+        "newspaper-link": "https://www.elliberal.com.ar/",
+        "newspaper-about": "Argentina's leading daily newspaper covering politics, business, jobs, education, sports and more."
+      },
+      {
+        "newspaper-name": "El Intransigente\u200e",
+        "newspaper-link": "https://elintransigente.com/",
+        "newspaper-about": "Daily Spanish-language newspaper published in Rosario, Argentina. The newspaper was founded in 1867. La Capital is the oldest newspaper in Argentina still in publication."
+      },
+      {
+        "newspaper-name": "\u200eLa Izquierda Diario",
+        "newspaper-link": "https://www.laizquierdadiario.com/",
+        "newspaper-about": "Daily newspaper based in General Roca, R\u00edo Negro."
+      },
+      {
+        "newspaper-name": "MinutoUno.com",
+        "newspaper-link": "https://www.minutouno.com/",
+        "newspaper-about": "One of the most popular news websites in Argentina."
+      },
+      {
+        "newspaper-name": "El Cronista",
+        "newspaper-link": "https://www.cronista.com/",
+        "newspaper-about": "Local newspaper serving Bah\u00eda Blanca, Argentina."
+      },
+      {
+        "newspaper-name": "La Gaceta",
+        "newspaper-link": "http://www.lagaceta.com.ar/",
+        "newspaper-about": "Buenos Aires based news Agency."
+      },
+      {
+        "newspaper-name": "Los Andes",
+        "newspaper-link": "https://www.losandes.com.ar/",
+        "newspaper-about": "Argentine newspaper published in Buenos Aires."
+      },
+      {
+        "newspaper-name": "El Destape",
+        "newspaper-link": "https://www.eldestapeweb.com/",
+        "newspaper-about": "Newspaper based in Ca\u00f1uelas, Argentina."
+      },
+      {
+        "newspaper-name": "Diario Registrado\u200e",
+        "newspaper-link": "https://www.diarioregistrado.com/",
+        "newspaper-about": "News source for the Armenian community in Argentina."
+      },
+      {
+        "newspaper-name": "\u200eLa Arena",
+        "newspaper-link": "https://www.laarena.com.ar/",
+        "newspaper-about": "One of the few German-language newspapers published in Argentina."
+      },
+      {
+        "newspaper-name": "Cadena 3",
+        "newspaper-link": "https://www.cadena3.com/",
+        "newspaper-about": ""
+      },
+      {
+        "newspaper-name": "\u200eDiario Panorama",
+        "newspaper-link": "https://www.diariopanorama.com/",
+        "newspaper-about": ""
+      },
+      {
+        "newspaper-name": "Diario Democracia",
+        "newspaper-link": "https://www.diariodemocracia.com/",
+        "newspaper-about": ""
+      },
+      {
+        "newspaper-name": "Context Tucuman",
+        "newspaper-link": "https://www.contextotucuman.com/",
+        "newspaper-about": ""
+      },
+      {
+        "newspaper-name": "MDZ Online",
+        "newspaper-link": "https://www.mdzol.com/",
+        "newspaper-about": ""
+      },
+      {
+        "newspaper-name": "Cr\u00f3nica",
+        "newspaper-link": "https://www.cronica.com.ar/",
+        "newspaper-about": ""
+      },
+      {
+        "newspaper-name": "La Capital",
+        "newspaper-link": "https://www.lacapital.com.ar/",
+        "newspaper-about": ""
+      },
+      {
+        "newspaper-name": "R\u00edo Negro",
+        "newspaper-link": "https://www.rionegro.com.ar/",
+        "newspaper-about": ""
+      },
+      {
+        "newspaper-name": "Infobae.com",
+        "newspaper-link": "https://www.infobae.com/america/",
+        "newspaper-about": ""
+      },
+      {
+        "newspaper-name": "Diario de Cuyo",
+        "newspaper-link": "https://www.diariodecuyo.com.ar/",
+        "newspaper-about": ""
+      },
+      {
+        "newspaper-name": "El Tribuno",
+        "newspaper-link": "https://www.eltribuno.com/",
+        "newspaper-about": ""
+      },
+      {
+        "newspaper-name": "El D\u00eda",
+        "newspaper-link": "https://www.eldia.com/",
+        "newspaper-about": ""
+      },
+      {
+        "newspaper-name": "El Litoral",
+        "newspaper-link": "https://www.ellitoral.com/",
+        "newspaper-about": ""
+      },
+      {
+        "newspaper-name": "\u200eTelam",
+        "newspaper-link": "https://www.telam.com.ar/",
+        "newspaper-about": ""
+      },
+      {
+        "newspaper-name": "Diario Veloz",
+        "newspaper-link": "https://www.diarioveloz.com/",
+        "newspaper-about": ""
+      },
+      {
+        "newspaper-name": "El Diario de Moron",
+        "newspaper-link": "http://moron.enorsai.com.ar/",
+        "newspaper-about": ""
+      },
+      {
+        "newspaper-name": "Portal de Noticias",
+        "newspaper-link": "https://portaldenoticias.com.ar/",
+        "newspaper-about": ""
+      },
+      {
+        "newspaper-name": "Real Politik",
+        "newspaper-link": "https://realpolitik.com.ar/",
+        "newspaper-about": ""
+      },
+      {
+        "newspaper-name": "El Tiempo",
+        "newspaper-link": "https://www.diarioeltiempo.com.ar/",
+        "newspaper-about": ""
+      },
+      {
+        "newspaper-name": "Region Mar del Plata",
+        "newspaper-link": "https://regionmardelplata.com/",
+        "newspaper-about": ""
+      },
+      {
+        "newspaper-name": "En Linea Noticias\u200e",
+        "newspaper-link": "https://enlineanoticias.com.ar/",
+        "newspaper-about": ""
+      },
+      {
+        "newspaper-name": "El Diario Sur",
+        "newspaper-link": "https://www.eldiariosur.com/",
+        "newspaper-about": ""
+      },
+      {
+        "newspaper-name": "\u200eLa Verdad",
+        "newspaper-link": "https://laverdadonline.com/",
+        "newspaper-about": ""
+      },
+      {
+        "newspaper-name": "\u200eAhora Mar del Plata",
+        "newspaper-link": "https://ahoramardelplata.com.ar/",
+        "newspaper-about": ""
+      },
+      {
+        "newspaper-name": "\u200eNoticias Arrecifes",
+        "newspaper-link": "https://unoarrecifes.com/",
+        "newspaper-about": ""
+      },
+      {
+        "newspaper-name": "\u200eTres Lineas",
+        "newspaper-link": "https://www.treslineas.com.ar/",
+        "newspaper-about": ""
+      },
+      {
+        "newspaper-name": "Ayacucho Al Dia",
+        "newspaper-link": "https://ayacuchoaldia.com.ar/",
+        "newspaper-about": ""
+      },
+      {
+        "newspaper-name": "El Marplatense\u200e",
+        "newspaper-link": "https://elmarplatense.com/",
+        "newspaper-about": ""
+      },
+      {
+        "newspaper-name": "Info Region",
+        "newspaper-link": "https://www.inforegion.com.ar/",
+        "newspaper-about": ""
+      },
+      {
+        "newspaper-name": "PrimiciasYa",
+        "newspaper-link": "https://www.a24.com/primiciasya",
+        "newspaper-about": ""
+      },
+      {
+        "newspaper-name": "Diario Popular",
+        "newspaper-link": "https://www.diariopopular.com.ar/",
+        "newspaper-about": ""
+      },
+      {
+        "newspaper-name": "Diario Uno",
+        "newspaper-link": "https://www.diariouno.com.ar/",
+        "newspaper-about": ""
+      },
+      {
+        "newspaper-name": "El Territorio",
+        "newspaper-link": "https://www.elterritorio.com.ar/",
+        "newspaper-about": ""
+      },
+      {
+        "newspaper-name": "La Nueva Provincia",
+        "newspaper-link": "https://www.lanueva.com/",
+        "newspaper-about": ""
+      },
+      {
+        "newspaper-name": "Patag\u00f3nico",
+        "newspaper-link": "https://www.elpatagonico.com/",
+        "newspaper-about": ""
+      },
+      {
+        "newspaper-name": "Jornada",
+        "newspaper-link": "https://www.diariojornada.com.ar/",
+        "newspaper-about": ""
+      },
+      {
+        "newspaper-name": "Infonews",
+        "newspaper-link": "https://infonews.com/",
+        "newspaper-about": ""
+      },
+      {
+        "newspaper-name": "La Capital",
+        "newspaper-link": "https://www.lacapitalmdp.com/",
+        "newspaper-about": ""
+      },
+      {
+        "newspaper-name": "El Ancasti",
+        "newspaper-link": "https://www.elancasti.com.ar/",
+        "newspaper-about": ""
+      },
+      {
+        "newspaper-name": "Tiempo Argentino",
+        "newspaper-link": "https://www.tiempoar.com.ar/",
+        "newspaper-about": ""
+      },
+      {
+        "newspaper-name": "El Chubut",
+        "newspaper-link": "https://www.elchubut.com.ar/",
+        "newspaper-about": ""
+      },
+      {
+        "newspaper-name": "sanjuan8",
+        "newspaper-link": "https://www.sanjuan8.com/",
+        "newspaper-about": ""
+      },
+      {
+        "newspaper-name": "Buenos Aires Econ\u00f3mico",
+        "newspaper-link": "https://www.baenegocios.com/",
+        "newspaper-about": ""
+      },
+      {
+        "newspaper-name": "La Ma\u00f1ana",
+        "newspaper-link": "https://www.xn--lamaanaonline-lkb.com.ar/",
+        "newspaper-about": ""
+      },
+      {
+        "newspaper-name": "Noticias Argentinas, SA (NA)",
+        "newspaper-link": "https://noticiasargentinas.com/",
+        "newspaper-about": ""
+      },
+      {
+        "newspaper-name": "La Prensa",
+        "newspaper-link": "https://www.laprensa.com.ar/",
+        "newspaper-about": ""
+      },
+      {
+        "newspaper-name": "Diario Puntal",
+        "newspaper-link": "https://www.puntal.com.ar/",
+        "newspaper-about": ""
+      },
+      {
+        "newspaper-name": "El Popular",
+        "newspaper-link": "https://www.elpopular.com.ar/",
+        "newspaper-about": ""
+      },
+      {
+        "newspaper-name": "La Voz del Pueblo",
+        "newspaper-link": "https://www.lavozdelpueblo.com.ar/",
+        "newspaper-about": ""
+      },
+      {
+        "newspaper-name": "Diario Judicial",
+        "newspaper-link": "https://www.diariojudicial.com/",
+        "newspaper-about": ""
+      },
+      {
+        "newspaper-name": "El Diario del Fin del Mundo",
+        "newspaper-link": "https://www.eldiariodelfindelmundo.com/",
+        "newspaper-about": ""
+      },
+      {
+        "newspaper-name": "La Opinion",
+        "newspaper-link": "https://laopinionpergamino.com.ar/",
+        "newspaper-about": ""
+      },
+      {
+        "newspaper-name": "El Civismo",
+        "newspaper-link": "https://www.elcivismo.com.ar/",
+        "newspaper-about": ""
+      },
+      {
+        "newspaper-name": "La Razon de Chivilcoy",
+        "newspaper-link": "https://www.larazondechivilcoy.com.ar/",
+        "newspaper-about": ""
+      },
+      {
+        "newspaper-name": "Pilar de Todos",
+        "newspaper-link": "https://www.pilardetodos.com.ar/",
+        "newspaper-about": ""
+      },
+      {
+        "newspaper-name": "InfoCa\u00f1uelas",
+        "newspaper-link": "https://www.infocanuelas.com/",
+        "newspaper-about": ""
+      },
+      {
+        "newspaper-name": "Diagonales",
+        "newspaper-link": "https://www.diagonales.com/",
+        "newspaper-about": ""
+      },
+      {
+        "newspaper-name": "QUE",
+        "newspaper-link": "https://quedigital.com.ar/",
+        "newspaper-about": ""
+      },
+      {
+        "newspaper-name": "Perspectiva SUR",
+        "newspaper-link": "http://www.perspectivasur.com/",
+        "newspaper-about": ""
+      },
+      {
+        "newspaper-name": "Noticias en Red\u200e",
+        "newspaper-link": "https://notienred.info/",
+        "newspaper-about": ""
+      },
+      {
+        "newspaper-name": "Semanario Reflejos\u200e",
+        "newspaper-link": "https://semreflejos.com.ar/",
+        "newspaper-about": ""
+      },
+      {
+        "newspaper-name": "Distrito Interior",
+        "newspaper-link": "https://www.distritointerior.com.ar/",
+        "newspaper-about": ""
+      },
+      {
+        "newspaper-name": "SEPRIN",
+        "newspaper-link": "https://www.seprin.info/",
+        "newspaper-about": ""
+      },
+      {
+        "newspaper-name": "La Autentica Defensa",
+        "newspaper-link": "https://www.laautenticadefensa.net/",
+        "newspaper-about": ""
+      },
+      {
+        "newspaper-name": "Diario EL SOL",
+        "newspaper-link": "https://elsolnoticias.com.ar/",
+        "newspaper-about": ""
+      },
+      {
+        "newspaper-name": "Diarios Bonaerenses",
+        "newspaper-link": "https://dib.com.ar/",
+        "newspaper-about": ""
+      },
+      {
+        "newspaper-name": "La Ciudad",
+        "newspaper-link": "https://laciudadavellaneda.com.ar/",
+        "newspaper-about": ""
+      },
+      {
+        "newspaper-name": "El 1",
+        "newspaper-link": "https://www.el1digital.com.ar/",
+        "newspaper-about": ""
+      },
+      {
+        "newspaper-name": "La Verdad",
+        "newspaper-link": "https://laverdadayacucho.com.ar/",
+        "newspaper-about": ""
+      },
+      {
+        "newspaper-name": "Prensa Obrera",
+        "newspaper-link": "https://po.org.ar/",
+        "newspaper-about": ""
+      },
+      {
+        "newspaper-name": "Varela al Dia",
+        "newspaper-link": "http://varelaaldia.com.ar/",
+        "newspaper-about": ""
+      },
+      {
+        "newspaper-name": "La Uni\u00f3n",
+        "newspaper-link": "https://launion.com.ar/",
+        "newspaper-about": ""
+      },
+      {
+        "newspaper-name": "Diario Armenia",
+        "newspaper-link": "https://www.diarioarmenia.org.ar/",
+        "newspaper-about": ""
+      },
+      {
+        "newspaper-name": "El 9 de Julio",
+        "newspaper-link": "https://www.diarioel9dejulio.com.ar/",
+        "newspaper-about": ""
+      },
+      {
+        "newspaper-name": "El Vig\u00eda",
+        "newspaper-link": "https://www.agenciaelvigia.com.ar/",
+        "newspaper-about": ""
+      },
+      {
+        "newspaper-name": "El Diario",
+        "newspaper-link": "https://www.diariodelujan.com/",
+        "newspaper-about": ""
+      },
+      {
+        "newspaper-name": "Argentinisches Tageblatt",
+        "newspaper-link": "https://www.tageblatt.com.ar/",
+        "newspaper-about": ""
+      },
+      {
+        "newspaper-name": "El Diario de Escobar",
+        "newspaper-link": "https://www.eldiariodeescobar.com.ar/",
+        "newspaper-about": ""
+      },
+      {
+        "newspaper-name": "El Suburbana",
+        "newspaper-link": "https://elsuburbanodigital.com.ar/",
+        "newspaper-about": ""
+      },
+      {
+        "newspaper-name": "Semana Maipuense",
+        "newspaper-link": "https://www.semanamaipuense.com.ar/",
+        "newspaper-about": ""
+      }
+    ]
+  },
+  {
+    "country-name": "Armenia",
+    "country-link": "https://www.w3newspapers.com/armenia/",
+    "newspapers": [
+      {
+        "newspaper-name": "Armenia Liberty",
+        "newspaper-link": "https://www.azatutyun.am/",
+        "newspaper-about": "Armenian newspaper published in English and Armenian languages."
+      },
+      {
+        "newspaper-name": "Tert",
+        "newspaper-link": "https://www.tert.am/en",
+        "newspaper-about": "Leading newspaper published in Russian, and Armenian-language."
+      },
+      {
+        "newspaper-name": "Aravot",
+        "newspaper-link": "https://www.aravot.am/",
+        "newspaper-about": "Leading daily newspaper in Armenia. The newspaper published in Armenian, English & Russian languages."
+      },
+      {
+        "newspaper-name": "Haykakan Zhamanak",
+        "newspaper-link": "https://armtimes.com/hy",
+        "newspaper-about": "State news agency in Armenia."
+      },
+      {
+        "newspaper-name": "168.am",
+        "newspaper-link": "https://en.168.am/",
+        "newspaper-about": "Daily newspaper published in Armenia."
+      },
+      {
+        "newspaper-name": "Armenpress",
+        "newspaper-link": "https://armenpress.am/arm/",
+        "newspaper-about": "Published in Yerevan by the Association of Investigative Journalists NGO."
+      },
+      {
+        "newspaper-name": "Hraparak",
+        "newspaper-link": "https://hraparak.am/",
+        "newspaper-about": "Official newspaper of the Armenian Revolutionary Federation (ARF)."
+      },
+      {
+        "newspaper-name": "Hetq",
+        "newspaper-link": "https://hetq.am/en",
+        "newspaper-about": "The newspaper printed in every 10 days."
+      },
+      {
+        "newspaper-name": "Yerkir",
+        "newspaper-link": "https://www.yerkir.am/",
+        "newspaper-about": "Featuring Armenia and worldwide economic, financial and business sectors. The newspaper published in Armenian and Russian languages."
+      },
+      {
+        "newspaper-name": "1in.am (Armenian News and Analyses)",
+        "newspaper-link": "https://www.1in.am/",
+        "newspaper-about": "Russian-language newspaper published in Armenia."
+      },
+      {
+        "newspaper-name": "PanARMENIAN.Net",
+        "newspaper-link": "https://panarmenian.net/",
+        "newspaper-about": "Popular daily newspaper published Armenia. Azg publish in Armenian, Turkish, English and Russian languages."
+      },
+      {
+        "newspaper-name": "Iravunk",
+        "newspaper-link": "https://www.iravunk.com/",
+        "newspaper-about": "One of the Armenian-language daily newspapers published in Turkey."
+      },
+      {
+        "newspaper-name": "Golos Armenii",
+        "newspaper-link": "https://golosarmenii.am/",
+        "newspaper-about": "Mass-distributed newspaper in the Caucasian region."
+      },
+      {
+        "newspaper-name": "Nagorno-Karabagh Republic (NKR)",
+        "newspaper-link": "http://www.nkr.am/",
+        "newspaper-about": "Armenian-American newspaper published in Massachusetts, United States."
+      },
+      {
+        "newspaper-name": "Syuniac Yerkir",
+        "newspaper-link": "https://syuniacyerkir.am/",
+        "newspaper-about": "California based newspaper published in Armenian-language."
+      },
+      {
+        "newspaper-name": "Business 24",
+        "newspaper-link": "https://b24.am/",
+        "newspaper-about": ""
+      },
+      {
+        "newspaper-name": "Irates de Facto",
+        "newspaper-link": "http://www.irates.am/",
+        "newspaper-about": ""
+      },
+      {
+        "newspaper-name": "Novoye Vremya",
+        "newspaper-link": "http://nv.am/",
+        "newspaper-about": ""
+      },
+      {
+        "newspaper-name": "Azg",
+        "newspaper-link": "https://www.azg.am/",
+        "newspaper-about": ""
+      },
+      {
+        "newspaper-name": "Marmara",
+        "newspaper-link": "https://www.normarmara.com/",
+        "newspaper-about": ""
+      },
+      {
+        "newspaper-name": "\u200eShamshyan.com",
+        "newspaper-link": "https://shamshyan.com/hy/",
+        "newspaper-about": ""
+      },
+      {
+        "newspaper-name": "Jhoghovurd",
+        "newspaper-link": "https://armlur.am/",
+        "newspaper-about": ""
+      },
+      {
+        "newspaper-name": "lurer.com\u200e",
+        "newspaper-link": "https://lurer.com/",
+        "newspaper-about": ""
+      },
+      {
+        "newspaper-name": "iravaban.net",
+        "newspaper-link": "https://iravaban.net/",
+        "newspaper-about": ""
+      },
+      {
+        "newspaper-name": "operativ.am\u200e",
+        "newspaper-link": "https://operativ.am/",
+        "newspaper-about": ""
+      },
+      {
+        "newspaper-name": "slaq",
+        "newspaper-link": "https://www.slaq.am/",
+        "newspaper-about": ""
+      },
+      {
+        "newspaper-name": "\u200epanorama.am",
+        "newspaper-link": "https://www.panorama.am/am/",
+        "newspaper-about": ""
+      },
+      {
+        "newspaper-name": "Novosti Armenia",
+        "newspaper-link": "https://newsarmenia.am/",
+        "newspaper-about": ""
+      },
+      {
+        "newspaper-name": "\u200eSputnik Armenia",
+        "newspaper-link": "https://armeniasputnik.am/",
+        "newspaper-about": ""
+      },
+      {
+        "newspaper-name": "Yelaket Lratvakan",
+        "newspaper-link": "https://yelaket.am/",
+        "newspaper-about": ""
+      },
+      {
+        "newspaper-name": "\u200eyn.am",
+        "newspaper-link": "https://yn.am/",
+        "newspaper-about": ""
+      },
+      {
+        "newspaper-name": "mamul.am",
+        "newspaper-link": "https://mamul.am/",
+        "newspaper-about": ""
+      },
+      {
+        "newspaper-name": "\u200easekose.am",
+        "newspaper-link": "http://asekose.am/",
+        "newspaper-about": ""
+      },
+      {
+        "newspaper-name": "lragir.am",
+        "newspaper-link": "https://www.lragir.am/",
+        "newspaper-about": ""
+      },
+      {
+        "newspaper-name": "shabat.am\u200e",
+        "newspaper-link": "https://shabat.am/",
+        "newspaper-about": ""
+      },
+      {
+        "newspaper-name": "orer.am\u200e",
+        "newspaper-link": "https://orer.am/",
+        "newspaper-about": ""
+      },
+      {
+        "newspaper-name": "Champord",
+        "newspaper-link": "https://champord.am/",
+        "newspaper-about": ""
+      },
+      {
+        "newspaper-name": "Avangard",
+        "newspaper-link": "http://www.avangard.am/",
+        "newspaper-about": ""
+      },
+      {
+        "newspaper-name": "Hairenik",
+        "newspaper-link": "https://hairenikweekly.com/",
+        "newspaper-about": ""
+      },
+      {
+        "newspaper-name": "Asbarez",
+        "newspaper-link": "https://asbarez.com/",
+        "newspaper-about": ""
+      },
+      {
+        "newspaper-name": "Horizon Weekly",
+        "newspaper-link": "https://horizonweekly.ca/",
+        "newspaper-about": ""
+      },
+      {
+        "newspaper-name": "Canada",
+        "newspaper-link": "https://www.w3newspapers.com/canada/",
+        "newspaper-about": ""
+      },
+      {
+        "newspaper-name": "Azat Or",
+        "newspaper-link": "https://azator.gr/",
+        "newspaper-about": ""
+      },
+      {
+        "newspaper-name": "Greece",
+        "newspaper-link": "https://www.w3newspapers.com/greece/",
+        "newspaper-about": ""
+      },
+      {
+        "newspaper-name": "Alik",
+        "newspaper-link": "https://alikonline.ir/",
+        "newspaper-about": ""
+      },
+      {
+        "newspaper-name": "Iran",
+        "newspaper-link": "https://www.w3newspapers.com/iran/",
+        "newspaper-about": ""
+      },
+      {
+        "newspaper-name": "Aztag",
+        "newspaper-link": "https://www.aztagdaily.com/",
+        "newspaper-about": ""
+      },
+      {
+        "newspaper-name": "Lebanon",
+        "newspaper-link": "https://www.w3newspapers.com/lebanon/",
+        "newspaper-about": ""
+      }
+    ]
+  },
+  {
+    "country-name": "Aruba",
+    "country-link": "https://www.w3newspapers.com/aruba/",
+    "newspapers": [
+      {
+        "newspaper-name": "Diario Online",
+        "newspaper-link": "https://diario.aw/",
+        "newspaper-about": "Papiamento language newspaper published in Aruba."
+      },
+      {
+        "newspaper-name": "Aruba.Com",
+        "newspaper-link": "https://www.aruba.com/",
+        "newspaper-about": "Official travel site of Aruba Tourism Authority."
+      },
+      {
+        "newspaper-name": "Aruba Press & Media",
+        "newspaper-link": "https://www.press.aruba.com/",
+        "newspaper-about": "Featuring travel destination information, press releases, images, and more."
+      },
+      {
+        "newspaper-name": "\u200e24 Ora",
+        "newspaper-link": "https://24ora.com/",
+        "newspaper-about": "Leading Dutch-language newspaper published in Oranjestad, Aruba. The newspaper contains articles about local sports, business, religion, art and entertainments, health, and more."
+      },
+      {
+        "newspaper-name": "Noticia Cla",
+        "newspaper-link": "https://www.noticiacla.com/",
+        "newspaper-about": ""
+      },
+      {
+        "newspaper-name": "Mas Noticia",
+        "newspaper-link": "https://masnoticia.com/",
+        "newspaper-about": ""
+      },
+      {
+        "newspaper-name": "Aruba Native",
+        "newspaper-link": "https://www.arubanative.com/",
+        "newspaper-about": ""
+      },
+      {
+        "newspaper-name": "BonDia",
+        "newspaper-link": "https://www.bondia.com/",
+        "newspaper-about": ""
+      },
+      {
+        "newspaper-name": "Amigoe",
+        "newspaper-link": "https://amigoe.com/",
+        "newspaper-about": ""
+      },
+      {
+        "newspaper-name": "AWE Mainta",
+        "newspaper-link": "https://awemainta.com/",
+        "newspaper-about": ""
+      },
+      {
+        "newspaper-name": "Cool FM 98.9",
+        "newspaper-link": "http://coolaruba.com/",
+        "newspaper-about": ""
+      },
+      {
+        "newspaper-name": "Awe 24",
+        "newspaper-link": "https://www.awe24.com/",
+        "newspaper-about": ""
+      },
+      {
+        "newspaper-name": "\u200eAwe Mainta",
+        "newspaper-link": "https://awemainta.com/",
+        "newspaper-about": ""
+      },
+      {
+        "newspaper-name": "Aruba Today",
+        "newspaper-link": "https://www.arubatoday.com/",
+        "newspaper-about": ""
+      },
+      {
+        "newspaper-name": "Solo di Pueblo",
+        "newspaper-link": "https://solodipueblo.com/",
+        "newspaper-about": ""
+      }
+    ]
+  },
+  {
+    "country-name": "Australia",
+    "country-link": "https://www.w3newspapers.com/australia/",
+    "newspapers": [
+      {
+        "newspaper-name": "Australian",
+        "newspaper-link": "https://www.theaustralian.com.au/",
+        "newspaper-about": "One of the most widely circulated newspapers in Australia."
+      },
+      {
+        "newspaper-name": "Australian Financial Review",
+        "newspaper-link": "https://www.afr.com/",
+        "newspaper-about": "Australia's leading business newspaper published by Fairfax Media."
+      },
+      {
+        "newspaper-name": "Daily Cargo News",
+        "newspaper-link": "https://www.thedcn.com.au/",
+        "newspaper-about": "Independent alternative newspaper published in Australia."
+      },
+      {
+        "newspaper-name": "Green Left Weekly",
+        "newspaper-link": "https://www.greenleft.org.au/",
+        "newspaper-about": "Daily broadsheet format newspaper based in Australia's capital city Canberra."
+      },
+      {
+        "newspaper-name": "Saturday Paper",
+        "newspaper-link": "https://www.thesaturdaypaper.com.au/",
+        "newspaper-about": "Tabloid format newspaper published in Darwin, Northern Territory."
+      },
+      {
+        "newspaper-name": "Weekly Times",
+        "newspaper-link": "https://www.weeklytimesnow.com.au/",
+        "newspaper-about": ""
+      },
+      {
+        "newspaper-name": "The Monthly",
+        "newspaper-link": "https://www.themonthly.com.au/",
+        "newspaper-about": ""
+      },
+      {
+        "newspaper-name": "Canberra Times",
+        "newspaper-link": "https://www.canberratimes.com.au/",
+        "newspaper-about": ""
+      },
+      {
+        "newspaper-name": "Catholic Voice",
+        "newspaper-link": "https://www.catholicvoice.org.au/",
+        "newspaper-about": ""
+      },
+      {
+        "newspaper-name": "Canberra City News",
+        "newspaper-link": "https://citynews.com.au/",
+        "newspaper-about": ""
+      },
+      {
+        "newspaper-name": "Riot Act",
+        "newspaper-link": "https://the-riotact.com/",
+        "newspaper-about": ""
+      },
+      {
+        "newspaper-name": "Northern Territory News",
+        "newspaper-link": "https://www.ntnews.com.au/",
+        "newspaper-about": ""
+      },
+      {
+        "newspaper-name": "Alice Springs News (Alice Springs)",
+        "newspaper-link": "https://alicespringsnews.com.au/",
+        "newspaper-about": ""
+      },
+      {
+        "newspaper-name": "Katherine Times (Katherine, Darwin, Tennant Creek, Alice Springs)",
+        "newspaper-link": "https://www.katherinetimes.com.au/",
+        "newspaper-about": ""
+      }
+    ]
+  },
+  {
+    "country-name": "Austria",
+    "country-link": "https://www.w3newspapers.com/austria/",
+    "newspapers": [
+      {
+        "newspaper-name": "Kronen Zeitung (Krone)",
+        "newspaper-link": "https://www.krone.at/",
+        "newspaper-about": "One of the most widely circulated newspapers in Austria. The newspaper was established in 1900 and published in German-language."
+      },
+      {
+        "newspaper-name": "Heute",
+        "newspaper-link": "https://www.heute.at/",
+        "newspaper-about": "Leading Austrian newspaper published Monday-Friday by AHVV-Verlags-GmbH."
+      },
+      {
+        "newspaper-name": "Kleine Zeitung",
+        "newspaper-link": "https://www.kleinezeitung.at/",
+        "newspaper-about": "Austrian regional newspaper published in Graz, Styria."
+      },
+      {
+        "newspaper-name": "\u00d6sterreich",
+        "newspaper-link": "https://www.oe24.at/",
+        "newspaper-about": "Austrian national daily newspaper."
+      },
+      {
+        "newspaper-name": "Kurier",
+        "newspaper-link": "https://kurier.at/",
+        "newspaper-about": "An Austrian newspaper based in Vienna."
+      },
+      {
+        "newspaper-name": "Neue Vorarlberger Tageszeitung (NEUE)",
+        "newspaper-link": "https://www.neue.at/",
+        "newspaper-about": "Daily newspaper based in Linz. Local edition of the newspaper also published from Steyr, das Salzkammergut, M\u00fchlviertel, Wels, and das Innviertel."
+      },
+      {
+        "newspaper-name": "Ober\u00f6sterreichische Nachrichten",
+        "newspaper-link": "https://www.nachrichten.at/",
+        "newspaper-about": "Austrian daily newspaper published in Vienna. The newspaper published by Styria Medien AG."
+      },
+      {
+        "newspaper-name": "Die Presse",
+        "newspaper-link": "https://www.diepresse.com/",
+        "newspaper-about": "Leading daily broadsheet format newspaper published in Vienna, Austria."
+      },
+      {
+        "newspaper-name": "Der Standard",
+        "newspaper-link": "https://www.derstandard.at/",
+        "newspaper-about": "Daily newspaper based in Tyrol and owned by Moser Holding. Regional edition of the TT printed in Tyrol, Landeck, Kitzb\u00fchel, Schwaz, Reutte, Kufstein, Innsbruck, and Imst."
+      },
+      {
+        "newspaper-name": "Tiroler Tageszeitung (TT)",
+        "newspaper-link": "https://www.tt.com/",
+        "newspaper-about": "Daily newspaper popular in the province of Salzburg."
+      },
+      {
+        "newspaper-name": "Salzburger Nachrichten (SN)",
+        "newspaper-link": "https://www.sn.at/",
+        "newspaper-about": "Austrian business daily."
+      },
+      {
+        "newspaper-name": "Vorarlberger Nachrichten (VN)",
+        "newspaper-link": "https://www.vn.at/",
+        "newspaper-about": "Austrian daily newspaper. The Wiener Zeitung was founded in 1703. Wiener Zeitung is one of the oldest newspapers in Europe."
+      },
+      {
+        "newspaper-name": "medianet",
+        "newspaper-link": "https://medianet.at/",
+        "newspaper-about": "Austrian weekly newspaper."
+      },
+      {
+        "newspaper-name": "Neues Volksblatt",
+        "newspaper-link": "https://volksblatt.at/",
+        "newspaper-about": "Regional newspaper printed and distributed in Styrian Salzkammergut."
+      },
+      {
+        "newspaper-name": "Wiener Zeitung",
+        "newspaper-link": "https://www.wienerzeitung.at/",
+        "newspaper-about": "Historical Austrian newspapers."
+      },
+      {
+        "newspaper-name": "Falter",
+        "newspaper-link": "https://www.falter.at/",
+        "newspaper-about": "Association of Austrian newspapers."
+      },
+      {
+        "newspaper-name": "Economy",
+        "newspaper-link": "http://economy.at/",
+        "newspaper-about": ""
+      },
+      {
+        "newspaper-name": "Die Furche",
+        "newspaper-link": "https://www.furche.at/",
+        "newspaper-about": ""
+      },
+      {
+        "newspaper-name": "The Local",
+        "newspaper-link": "https://www.thelocal.at/",
+        "newspaper-about": ""
+      },
+      {
+        "newspaper-name": "Burgenl\u00e4ndische Volkszeitung (BVZ, St. P\u00f6lten)",
+        "newspaper-link": "https://www.bvz.at/",
+        "newspaper-about": ""
+      },
+      {
+        "newspaper-name": "Nieder\u00f6sterreichischen Nachrichten (N\u00d6N)",
+        "newspaper-link": "https://www.noen.at/",
+        "newspaper-about": ""
+      },
+      {
+        "newspaper-name": "Alpenpost",
+        "newspaper-link": "https://www.alpenpost.at/",
+        "newspaper-about": ""
+      },
+      {
+        "newspaper-name": "Der Sonntag",
+        "newspaper-link": "https://www.meinekirchenzeitung.at/wien-noe-ost-der-sonntag",
+        "newspaper-about": ""
+      },
+      {
+        "newspaper-name": "ANNO",
+        "newspaper-link": "https://anno.onb.ac.at/",
+        "newspaper-about": ""
+      },
+      {
+        "newspaper-name": "Orf.at",
+        "newspaper-link": "https://orf.at/",
+        "newspaper-about": ""
+      },
+      {
+        "newspaper-name": "Vorarlberg online\u200e",
+        "newspaper-link": "https://www.vol.at/",
+        "newspaper-about": ""
+      },
+      {
+        "newspaper-name": "Meinbezirk.at",
+        "newspaper-link": "https://www.meinbezirk.at/",
+        "newspaper-about": ""
+      },
+      {
+        "newspaper-name": "\u200eNewa.at",
+        "newspaper-link": "https://www.news.at/",
+        "newspaper-about": ""
+      },
+      {
+        "newspaper-name": "\u200eSalzburg 24",
+        "newspaper-link": "https://www.salzburg24.at/",
+        "newspaper-about": ""
+      },
+      {
+        "newspaper-name": "APA-OTS",
+        "newspaper-link": "https://www.ots.at/",
+        "newspaper-about": ""
+      },
+      {
+        "newspaper-name": "Profil",
+        "newspaper-link": "https://www.profil.at/",
+        "newspaper-about": ""
+      },
+      {
+        "newspaper-name": "\u200eDie tagespress",
+        "newspaper-link": "https://dietagespresse.com/",
+        "newspaper-about": ""
+      },
+      {
+        "newspaper-name": "Salzi.at",
+        "newspaper-link": "https://www.salzi.at/",
+        "newspaper-about": ""
+      },
+      {
+        "newspaper-name": "Wiener Bezirks Blatt\u200e",
+        "newspaper-link": "https://wienerbezirksblatt.at/",
+        "newspaper-about": ""
+      },
+      {
+        "newspaper-name": "Novice",
+        "newspaper-link": "https://www.novice.at/",
+        "newspaper-about": ""
+      },
+      {
+        "newspaper-name": "\u200eWann und Wo",
+        "newspaper-link": "https://www.wannundwo.at/",
+        "newspaper-about": ""
+      },
+      {
+        "newspaper-name": "\u200eYeni Vatan Gazetesi",
+        "newspaper-link": "https://www.yenivatan.at/",
+        "newspaper-about": ""
+      },
+      {
+        "newspaper-name": "S\u00fcd Ost Journal",
+        "newspaper-link": "https://www.soj.at/",
+        "newspaper-about": ""
+      },
+      {
+        "newspaper-name": "der Grazer",
+        "newspaper-link": "https://grazer.at/",
+        "newspaper-about": ""
+      },
+      {
+        "newspaper-name": "Der Ennstaler",
+        "newspaper-link": "https://www.derennstaler.at/",
+        "newspaper-about": ""
+      },
+      {
+        "newspaper-name": "Liezener Bezirksnachrichten",
+        "newspaper-link": "https://www.liezener-bezirksnachrichten.at/",
+        "newspaper-about": ""
+      },
+      {
+        "newspaper-name": "EnnsSeiten",
+        "newspaper-link": "http://www.ennsseiten.at/",
+        "newspaper-about": ""
+      },
+      {
+        "newspaper-name": "Badener Zeitung",
+        "newspaper-link": "https://www.badenerzeitung.at/",
+        "newspaper-about": ""
+      },
+      {
+        "newspaper-name": "Salzburger Fenster",
+        "newspaper-link": "https://www.svh.at/salzburger-fenster-magazin/",
+        "newspaper-about": ""
+      },
+      {
+        "newspaper-name": "Unterk\u00e4rntner Nachrichten",
+        "newspaper-link": "https://unterkaerntner.at/",
+        "newspaper-about": ""
+      },
+      {
+        "newspaper-name": "KirchenZeitung",
+        "newspaper-link": "http://www.kirchenzeitung.at/",
+        "newspaper-about": ""
+      },
+      {
+        "newspaper-name": "Verband \u00d6sterreichischer Zeitungen",
+        "newspaper-link": "https://voez.at/",
+        "newspaper-about": ""
+      },
+      {
+        "newspaper-name": "Vindobona",
+        "newspaper-link": "https://www.vindobona.org/",
+        "newspaper-about": ""
+      }
+    ]
+  },
+  {
+    "country-name": "Azerbaijan",
+    "country-link": "https://www.w3newspapers.com/azerbaijan/",
+    "newspapers": [
+      {
+        "newspaper-name": "Azer News",
+        "newspaper-link": "https://www.azernews.az/",
+        "newspaper-about": "Azerbaijan's weekly newspaper in English-language. The newspaper covering latest news on politics, entertainment, sports, history, education, and more."
+      },
+      {
+        "newspaper-name": "Bakinskiy Rabochiy (Baku Worker)",
+        "newspaper-link": "https://www.br.az/",
+        "newspaper-about": "Daily Russian-language newspaper."
+      },
+      {
+        "newspaper-name": "525ci Gazet",
+        "newspaper-link": "https://525.az/",
+        "newspaper-about": "Featuring latest news, politics, culture, economics, sports, and more."
+      },
+      {
+        "newspaper-name": "Sherq",
+        "newspaper-link": "https://sherg.az/",
+        "newspaper-about": "Azerbaijani-language daily newspaper."
+      },
+      {
+        "newspaper-name": "Azadl\u0131q q\u0259zeti",
+        "newspaper-link": "https://www.azadliq.info/",
+        "newspaper-about": "One of the top selling national newspapers in Azerbaijan. The newspaper published in Azerbaijani, Russian, and English-languages."
+      },
+      {
+        "newspaper-name": "Az\u0259rbaycan",
+        "newspaper-link": "https://www.azerbaijan-news.az/",
+        "newspaper-about": "Azerbaijani-language daily newspaper published in Azerbaijan."
+      },
+      {
+        "newspaper-name": "Xalg Gazeti",
+        "newspaper-link": "https://xalqqazeti.com/",
+        "newspaper-about": "Covering news, politics, economy, sports, culture, history, and much more."
+      },
+      {
+        "newspaper-name": "Yeni Musavat",
+        "newspaper-link": "https://musavat.com/ru/",
+        "newspaper-about": "Providing coverage of breaking news and current headlines from the Azerbaijan and around the world."
+      },
+      {
+        "newspaper-name": "Zerkalo (\u0417\u0435\u0440\u043a\u0430\u043b\u043e)",
+        "newspaper-link": "https://zerkalo.az/",
+        "newspaper-about": "Azerbaijani community newspaper published in UK."
+      },
+      {
+        "newspaper-name": "Oxu.az\u200e",
+        "newspaper-link": "https://oxu.az/",
+        "newspaper-about": ""
+      },
+      {
+        "newspaper-name": "Big.AZ",
+        "newspaper-link": "https://big.az/",
+        "newspaper-about": ""
+      },
+      {
+        "newspaper-name": "Milli.az\u200e",
+        "newspaper-link": "https://www.milli.az/",
+        "newspaper-about": ""
+      },
+      {
+        "newspaper-name": "Haqqin.az",
+        "newspaper-link": "https://haqqin.az/",
+        "newspaper-about": ""
+      },
+      {
+        "newspaper-name": "Qafqazinfo.az\u200e",
+        "newspaper-link": "https://qafqazinfo.az/",
+        "newspaper-about": ""
+      },
+      {
+        "newspaper-name": "Day.az",
+        "newspaper-link": "https://www.day.az/",
+        "newspaper-about": ""
+      },
+      {
+        "newspaper-name": "\u200eAxar.az",
+        "newspaper-link": "https://axar.az/",
+        "newspaper-about": ""
+      },
+      {
+        "newspaper-name": "\u200eTrend",
+        "newspaper-link": "https://en.trend.az/",
+        "newspaper-about": ""
+      },
+      {
+        "newspaper-name": "\u200eDisput.Az",
+        "newspaper-link": "https://www.dispute.az/",
+        "newspaper-about": ""
+      },
+      {
+        "newspaper-name": "Azer tag",
+        "newspaper-link": "https://azertag.az/",
+        "newspaper-about": ""
+      },
+      {
+        "newspaper-name": "Qaynar info",
+        "newspaper-link": "https://az.qaynarinfo.az/",
+        "newspaper-about": ""
+      },
+      {
+        "newspaper-name": "\u200ePublika.az",
+        "newspaper-link": "https://publika.az/",
+        "newspaper-about": ""
+      },
+      {
+        "newspaper-name": "1news.az",
+        "newspaper-link": "https://1news.az/",
+        "newspaper-about": ""
+      },
+      {
+        "newspaper-name": "Minval.az",
+        "newspaper-link": "https://minval.az/",
+        "newspaper-about": ""
+      },
+      {
+        "newspaper-name": "Modern.az\u200e",
+        "newspaper-link": "https://modern.az/",
+        "newspaper-about": ""
+      },
+      {
+        "newspaper-name": "Moderator.az\u200e",
+        "newspaper-link": "https://moderator.az/",
+        "newspaper-about": ""
+      },
+      {
+        "newspaper-name": "MediaNews.az\u200e",
+        "newspaper-link": "https://medianews.az/",
+        "newspaper-about": ""
+      },
+      {
+        "newspaper-name": "Virtualaz.org",
+        "newspaper-link": "https://virtualaz.org/",
+        "newspaper-about": ""
+      },
+      {
+        "newspaper-name": "\u200eSalamnews.org",
+        "newspaper-link": "https://salamnews.org/",
+        "newspaper-about": ""
+      },
+      {
+        "newspaper-name": "Gap.az",
+        "newspaper-link": "https://gapp.az/",
+        "newspaper-about": ""
+      },
+      {
+        "newspaper-name": "Sia\u200e",
+        "newspaper-link": "https://sia.az/",
+        "newspaper-about": ""
+      },
+      {
+        "newspaper-name": "Inter Az",
+        "newspaper-link": "https://interaztv.com/",
+        "newspaper-about": ""
+      },
+      {
+        "newspaper-name": "Aktual",
+        "newspaper-link": "https://aktual.az/",
+        "newspaper-about": ""
+      },
+      {
+        "newspaper-name": "Hurriyyet",
+        "newspaper-link": "https://hurriyyet.az/az",
+        "newspaper-about": ""
+      },
+      {
+        "newspaper-name": "Kaspi",
+        "newspaper-link": "https://kaspi.az/",
+        "newspaper-about": ""
+      },
+      {
+        "newspaper-name": "Millet.az",
+        "newspaper-link": "http://www.millet.az/",
+        "newspaper-about": ""
+      },
+      {
+        "newspaper-name": "Olaylar",
+        "newspaper-link": "https://olaylar.az/",
+        "newspaper-about": ""
+      },
+      {
+        "newspaper-name": "Respublica News",
+        "newspaper-link": "https://www.respublica-news.az/",
+        "newspaper-about": ""
+      },
+      {
+        "newspaper-name": "Uch Nogta",
+        "newspaper-link": "http://ucnoqta.az/",
+        "newspaper-about": ""
+      },
+      {
+        "newspaper-name": "Xalq Cebhesi",
+        "newspaper-link": "https://www.xalqcebhesi.az/",
+        "newspaper-about": ""
+      },
+      {
+        "newspaper-name": "Yeni Azerbaycan",
+        "newspaper-link": "https://www.yeniazerbaycan.com/",
+        "newspaper-about": ""
+      },
+      {
+        "newspaper-name": "Bizim Yol",
+        "newspaper-link": "https://www.bizimyol.info/",
+        "newspaper-about": ""
+      },
+      {
+        "newspaper-name": "Iqtisadiyyat",
+        "newspaper-link": "http://www.iqtisadiyyat.com/",
+        "newspaper-about": ""
+      },
+      {
+        "newspaper-name": "Serq Qapisi",
+        "newspaper-link": "http://www.serqqapisi.az/",
+        "newspaper-about": ""
+      },
+      {
+        "newspaper-name": "Baki Xeber",
+        "newspaper-link": "https://www.baki-xeber.com/",
+        "newspaper-about": ""
+      },
+      {
+        "newspaper-name": "Tezadlar",
+        "newspaper-link": "https://www.tezadlar.az/",
+        "newspaper-about": ""
+      },
+      {
+        "newspaper-name": "Ekspress",
+        "newspaper-link": "https://www.ekspress.az/",
+        "newspaper-about": ""
+      },
+      {
+        "newspaper-name": "Football+",
+        "newspaper-link": "https://www.football-plus.az/",
+        "newspaper-about": ""
+      },
+      {
+        "newspaper-name": "Iki Sahil",
+        "newspaper-link": "http://ikisahil.com/",
+        "newspaper-about": ""
+      },
+      {
+        "newspaper-name": "Araz Azerbaijan newspaper",
+        "newspaper-link": "http://araznews.com/az/",
+        "newspaper-about": ""
+      }
+    ]
+  }
+]
