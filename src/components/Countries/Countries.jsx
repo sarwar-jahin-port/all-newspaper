@@ -1,4 +1,5 @@
 import React, { useEffect, useState } from 'react'
+import { Link } from 'react-router-dom';
 
 export const Countries = ({letter}) => {
     const [countries, setCountries] = useState([]);
@@ -18,7 +19,7 @@ export const Countries = ({letter}) => {
                     return(
                     <div key={index} className="country flex items-center gap-2">
                         <img className='w-8 h-5' src={country.flag} alt="" />
-                        <p className='text-center text-xl'>{country.name}</p>
+                        <Link to={`/${country.name}`}><p className='text-center text-xl'>{country.name}</p></Link>
                     </div>
                     )
                 }
