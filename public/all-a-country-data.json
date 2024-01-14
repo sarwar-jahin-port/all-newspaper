@@ -808,144 +808,142 @@
       }
     ]
   },
-  [
-    {
-      "country-name": "Angola",
-      "country-link": "https://www.w3newspapers.com/angola/",
-      "newspapers": [
-        {
-          "newspaper-name": "Jornal de Angola",
-          "newspaper-link": "https://www.jornaldeangola.ao/ao/",
-          "newspaper-about": "Government-owned daily newspaper published in Angola."
-        },
-        {
-          "newspaper-name": "Folha 8",
-          "newspaper-link": "https://jornalf8.net/",
-          "newspaper-about": "Portuguese-language news portal."
-        },
-        {
-          "newspaper-name": "Novo Jornal",
-          "newspaper-link": "https://novojornal.co.ao/",
-          "newspaper-about": "State-run, was founded in 1975."
-        },
-        {
-          "newspaper-name": "O Pais",
-          "newspaper-link": "https://opais.co.ao/",
-          "newspaper-about": "Providing news, politics, history, economy, population, facts, weather, and more."
-        },
-        {
-          "newspaper-name": "Correio da Kianda",
-          "newspaper-link": "https://correiokianda.info/",
-          "newspaper-about": "Provides information on politics, history, religion, weather, population, foreign relations, economy, environment, geography, culture, government, and human rights."
-        },
-        {
-          "newspaper-name": "Maka Angola",
-          "newspaper-link": "https://www.makaangola.org/en/",
-          "newspaper-about": ""
-        },
-        {
-          "newspaper-name": "Angola24Horas.com",
-          "newspaper-link": "https://angola24horas.com/",
-          "newspaper-about": ""
-        },
-        {
-          "newspaper-name": "Platinaline",
-          "newspaper-link": "https://platinaline.com/",
-          "newspaper-about": ""
-        },
-        {
-          "newspaper-name": "Portal de Angola\u200e",
-          "newspaper-link": "https://www.portaldeangola.com/",
-          "newspaper-about": ""
-        },
-        {
-          "newspaper-name": "Expansao",
-          "newspaper-link": "https://www.expansao.co.ao/",
-          "newspaper-about": ""
-        },
-        {
-          "newspaper-name": "Ver Angola\u200e",
-          "newspaper-link": "https://www.verangola.net/va/",
-          "newspaper-about": ""
-        },
-        {
-          "newspaper-name": "AngoNoticias",
-          "newspaper-link": "https://www.angonoticias.com/",
-          "newspaper-about": ""
-        },
-        {
-          "newspaper-name": "Angola Online\u200e",
-          "newspaper-link": "https://angola-online.net/",
-          "newspaper-about": ""
-        },
-        {
-          "newspaper-name": "\u200eMercado",
-          "newspaper-link": "https://mercado.co.ao/",
-          "newspaper-about": ""
-        },
-        {
-          "newspaper-name": "Nova Gazeta",
-          "newspaper-link": "https://www.novagazeta.co.ao/",
-          "newspaper-about": ""
-        },
-        {
-          "newspaper-name": "Voz de Angola\u200e",
-          "newspaper-link": "https://www.vozdeangola.com/",
-          "newspaper-about": ""
-        },
-        {
-          "newspaper-name": "\u200e Noticias de Angola",
-          "newspaper-link": "https://noticiasdeangola.co.ao/",
-          "newspaper-about": ""
-        },
-        {
-          "newspaper-name": "Central Angola 7311\u200e",
-          "newspaper-link": "https://centralangola7311.net/",
-          "newspaper-about": ""
-        },
-        {
-          "newspaper-name": "Angola Press (ANGOP)",
-          "newspaper-link": "https://www.angop.ao/",
-          "newspaper-about": ""
-        },
-        {
-          "newspaper-name": "Televisao Popular de Angola (TPA)",
-          "newspaper-link": "https://www.tpa.ao/ao/",
-          "newspaper-about": ""
-        },
-        {
-          "newspaper-name": "Club-K",
-          "newspaper-link": "https://www.club-k.net/",
-          "newspaper-about": ""
-        },
-        {
-          "newspaper-name": "BBC News - Angola",
-          "newspaper-link": "https://www.bbc.com/news/world-africa-13036732",
-          "newspaper-about": ""
-        },
-        {
-          "newspaper-name": "ReliefWeb - Angola",
-          "newspaper-link": "https://reliefweb.int/country/ago",
-          "newspaper-about": ""
-        },
-        {
-          "newspaper-name": "Jeune Afrique - Angola",
-          "newspaper-link": "https://www.jeuneafrique.com/pays/angola/",
-          "newspaper-about": ""
-        },
-        {
-          "newspaper-name": "All Africa: Angola",
-          "newspaper-link": "https://allafrica.com/angola/",
-          "newspaper-about": ""
-        },
-        {
-          "newspaper-name": "Wikipedia - Angola",
-          "newspaper-link": "https://en.wikipedia.org/wiki/Angola",
-          "newspaper-about": ""
-        }
-      ]
-    }
-  ],
+  {
+    "country-name": "Angola",
+    "country-link": "https://www.w3newspapers.com/angola/",
+    "newspapers": [
+      {
+        "newspaper-name": "Jornal de Angola",
+        "newspaper-link": "https://www.jornaldeangola.ao/ao/",
+        "newspaper-about": "Government-owned daily newspaper published in Angola."
+      },
+      {
+        "newspaper-name": "Folha 8",
+        "newspaper-link": "https://jornalf8.net/",
+        "newspaper-about": "Portuguese-language news portal."
+      },
+      {
+        "newspaper-name": "Novo Jornal",
+        "newspaper-link": "https://novojornal.co.ao/",
+        "newspaper-about": "State-run, was founded in 1975."
+      },
+      {
+        "newspaper-name": "O Pais",
+        "newspaper-link": "https://opais.co.ao/",
+        "newspaper-about": "Providing news, politics, history, economy, population, facts, weather, and more."
+      },
+      {
+        "newspaper-name": "Correio da Kianda",
+        "newspaper-link": "https://correiokianda.info/",
+        "newspaper-about": "Provides information on politics, history, religion, weather, population, foreign relations, economy, environment, geography, culture, government, and human rights."
+      },
+      {
+        "newspaper-name": "Maka Angola",
+        "newspaper-link": "https://www.makaangola.org/en/",
+        "newspaper-about": ""
+      },
+      {
+        "newspaper-name": "Angola24Horas.com",
+        "newspaper-link": "https://angola24horas.com/",
+        "newspaper-about": ""
+      },
+      {
+        "newspaper-name": "Platinaline",
+        "newspaper-link": "https://platinaline.com/",
+        "newspaper-about": ""
+      },
+      {
+        "newspaper-name": "Portal de Angola\u200e",
+        "newspaper-link": "https://www.portaldeangola.com/",
+        "newspaper-about": ""
+      },
+      {
+        "newspaper-name": "Expansao",
+        "newspaper-link": "https://www.expansao.co.ao/",
+        "newspaper-about": ""
+      },
+      {
+        "newspaper-name": "Ver Angola\u200e",
+        "newspaper-link": "https://www.verangola.net/va/",
+        "newspaper-about": ""
+      },
+      {
+        "newspaper-name": "AngoNoticias",
+        "newspaper-link": "https://www.angonoticias.com/",
+        "newspaper-about": ""
+      },
+      {
+        "newspaper-name": "Angola Online\u200e",
+        "newspaper-link": "https://angola-online.net/",
+        "newspaper-about": ""
+      },
+      {
+        "newspaper-name": "\u200eMercado",
+        "newspaper-link": "https://mercado.co.ao/",
+        "newspaper-about": ""
+      },
+      {
+        "newspaper-name": "Nova Gazeta",
+        "newspaper-link": "https://www.novagazeta.co.ao/",
+        "newspaper-about": ""
+      },
+      {
+        "newspaper-name": "Voz de Angola\u200e",
+        "newspaper-link": "https://www.vozdeangola.com/",
+        "newspaper-about": ""
+      },
+      {
+        "newspaper-name": "\u200e Noticias de Angola",
+        "newspaper-link": "https://noticiasdeangola.co.ao/",
+        "newspaper-about": ""
+      },
+      {
+        "newspaper-name": "Central Angola 7311\u200e",
+        "newspaper-link": "https://centralangola7311.net/",
+        "newspaper-about": ""
+      },
+      {
+        "newspaper-name": "Angola Press (ANGOP)",
+        "newspaper-link": "https://www.angop.ao/",
+        "newspaper-about": ""
+      },
+      {
+        "newspaper-name": "Televisao Popular de Angola (TPA)",
+        "newspaper-link": "https://www.tpa.ao/ao/",
+        "newspaper-about": ""
+      },
+      {
+        "newspaper-name": "Club-K",
+        "newspaper-link": "https://www.club-k.net/",
+        "newspaper-about": ""
+      },
+      {
+        "newspaper-name": "BBC News - Angola",
+        "newspaper-link": "https://www.bbc.com/news/world-africa-13036732",
+        "newspaper-about": ""
+      },
+      {
+        "newspaper-name": "ReliefWeb - Angola",
+        "newspaper-link": "https://reliefweb.int/country/ago",
+        "newspaper-about": ""
+      },
+      {
+        "newspaper-name": "Jeune Afrique - Angola",
+        "newspaper-link": "https://www.jeuneafrique.com/pays/angola/",
+        "newspaper-about": ""
+      },
+      {
+        "newspaper-name": "All Africa: Angola",
+        "newspaper-link": "https://allafrica.com/angola/",
+        "newspaper-about": ""
+      },
+      {
+        "newspaper-name": "Wikipedia - Angola",
+        "newspaper-link": "https://en.wikipedia.org/wiki/Angola",
+        "newspaper-about": ""
+      }
+    ]
+  },
   {
     "country-name": "Antigua and Barbuda",
     "country-link": "https://www.w3newspapers.com/antigua-and-barbuda/",
