@@ -4,10 +4,10 @@ import logo from "../../../../public/images/logo.png";
 export const Navbar = () => {
   return (
     <div>
-      <div className="site-title flex w-4/5 mx-auto justify-between items-center">
+      <div className="site-title flex flex-col gap-8 md:gap-0 my-8 md:my-0 md:flex-row w-4/5 mx-auto justify-between items-center">
         <a href=""><img src={logo} alt="" className="logo max-w-56" /></a>
-        <div className='flex flex-col'>
-          <h1 className='text-4xl'>World Newspapers, News Sites, and Magazines Online</h1>
+        <div className='flex flex-col gap-8 md:gap-0'>
+          <h1 className='text-[2em] md:text-4xl font-semibold text-center'>World Newspapers, News Sites, and Magazines Online</h1>
           <div className="continents text-center">
             <a href="/" className="continent ml-2">Africa |</a>
             <a href="/" className="continent ml-2"> Asia |</a>
