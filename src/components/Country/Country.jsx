@@ -6,7 +6,7 @@ export const Country = () => {
   const [country, setCountry] = useState({});
   
   useEffect(()=>{
-      fetch("all-a-country-data.json")
+      fetch("newspapers.json")
       .then(res => res.json())
       .then(data => setCountry(data.filter(c => c["country-name"] === id)[0]))
   }, [])

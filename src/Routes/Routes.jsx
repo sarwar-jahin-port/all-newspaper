@@ -5,6 +5,7 @@ import {
 import { Home } from '../pages/Home/Home';
 import { Main } from '../Layout/Main';
 import { Country } from '../components/Country/Country';
+import { Magazine } from '../components/Magazine/Magazine';
 
 
 export const router = createBrowserRouter([
@@ -19,6 +20,10 @@ export const router = createBrowserRouter([
             {
                 path: ":id",
                 element: <Country></Country>,
+            },
+            {
+                path: "magazine/:id",
+                element: <Magazine></Magazine>
             }
         ]
     }
