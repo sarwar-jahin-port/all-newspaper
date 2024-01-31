@@ -17,7 +17,7 @@ export const Countries = ({letter}) => {
                     return(
                     <div key={index} className="country flex items-center gap-2">
                         <img className='w-8 h-5' src={country.flag} alt="" />
-                        <Link to={`/${country.name}`}><p className='text-center text-xl'>{country.name}</p></Link>
+                        <Link to={`/country/${country.name}`}><p className='text-center text-xl'>{country.name}</p></Link>
                     </div>
                     )
                 }

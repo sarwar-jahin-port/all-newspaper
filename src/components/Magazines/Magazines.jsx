@@ -5,7 +5,7 @@ export const Magazines = () => {
     const [categories, setCategories] = useState([]);
 
     useEffect(()=>{
-        fetch("magazines.json")
+        fetch("/magazines.json")
         .then(res => res.json())
         .then(data => setCategories(data))
     }, [])
@@ -14,7 +14,7 @@ export const Magazines = () => {
         <h3 className='text-lg font-semibold'>Magazines by Subject</h3>
         <ul>
             {
-                categories.map((category, index) => <Link key={index} to={`magazine/${category["category-name"]}`}><li>{category["category-name"]}</li></Link>)
+                categories.map((category, index) => <Link key={index} to={`/magazine/${category["category-name"]}`}><li>{category["category-name"]}</li></Link>)
             }
         </ul>
     </div>

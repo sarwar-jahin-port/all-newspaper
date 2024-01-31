@@ -1,10 +1,11 @@
-import React from 'react'
+import React, { useEffect } from 'react'
 import { Countries } from '../../components/Countries/Countries';
 import { Magazines } from '../../components/Magazines/Magazines';
 
 export const Home = () => {
 let letters = ["A", "B", "C", "D", "E", "F", "G", "H", "I", "J", "K", "L", "M", "N", "O", "P", "Q", "R", "S", "T", "U", "V", "Y", "Z"];
-  return (
+
+return (
     <div className='flex border justify-center'>
       <Magazines></Magazines>
       <div>

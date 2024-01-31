@@ -6,10 +6,10 @@ export const Country = () => {
   const [country, setCountry] = useState({});
   
   useEffect(()=>{
-      fetch("newspapers.json")
+      fetch("/newspapers.json")
       .then(res => res.json())
       .then(data => setCountry(data.filter(c => c["country-name"] === id)[0]))
-  }, [])
+  }, [id])
   // country["newspapers"].map(newspaper => console.log(newspaper));
   return (
     country["newspapers"] &&(
